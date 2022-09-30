@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'xiechenxu'
         GITHUB_ACCOUNT = 'AmayaX'
         APP_NAME = 'devops-maven-sample'
-        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
